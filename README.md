@@ -2,7 +2,7 @@
 
 Task given by Taiyo.AI
 
-Libraries that I've use in the project
+Libraries that I've used in the project
 
 Formik :- for form handling redux :- for state management Leaflet :- Maps TailwindCSS :- styling react-hot-toast :- for
 toast messages yup :- for validation axios :- for apis
